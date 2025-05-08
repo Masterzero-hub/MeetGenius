@@ -228,8 +228,8 @@
 
 - 삭제 권한 제한: 마스터 및 참여자 권한에 따라 삭제가 제한되며, 참여자가 아닐 경우 삭제할 수 없음
 
-![권한관련영상](https://github.com/user-attachments/assets/b19ffbf4-cf24-4940-af8e-8b9b99f4f0a5)
-   
+https://github.com/user-attachments/assets/b19ffbf4-cf24-4940-af8e-8b9b99f4f0a5
+
 **3. 실시간 회의 기록**
 - 회의 내용을 기록하고, 실시간 회의 페이지에서 해당 내용을 제공
 - **STT(음성 인식, Whisper Model) 기반 실시간 회의록 생성**  
